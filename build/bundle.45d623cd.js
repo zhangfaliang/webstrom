@@ -1,0 +1,1 @@
+webpackJsonp([0,2],[function(n,o,c){c(1);c(2),c(7),document.write("欢迎大家学习")},function(n,o){var c="shiny";n.exports=c},function(n,o){},,,,,function(n,o){console.log("12313212313")}]);
